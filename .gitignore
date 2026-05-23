@@ -1,0 +1,10 @@
+# Never commit these
+   .env
+   node_modules/
+   uploads/
+   *.db
+   *.db-journal
+
+   # OS files
+   .DS_Store
+   Thumbs.db
